@@ -1,0 +1,3 @@
+A Mutex is a mutually exclusive flag. It acts as a gate keeper to a section of code allowing one thread in and blocking access to all others. This ensures that the code being controled will only be hit by a single thread at a time.
+Simple understand: Mutex is instituted for the purpose of preventing race conditions
+https://www.baeldung.com/cs/what-is-mutex
